@@ -3,12 +3,12 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-12-06T13:54:40.513-05:00",
-  "LastSaveTime": "2025-12-07T22:55:07.323-05:00",
+  "LastSaveTime": "2025-12-08T12:14:26.416-05:00",
   "Prefs_MainPinNamesDisplayMode": 2,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 1,
   "Prefs_Snapping": 2,
-  "Prefs_StraightWires": 0,
+  "Prefs_StraightWires": 1,
   "Prefs_SimPaused": false,
   "Prefs_SimTargetStepsPerSecond": 1000,
   "Prefs_SimStepsPerClockTick": 250,
@@ -33,7 +33,7 @@
     "MEM-256",
     "RAM 256×8",
     "4BIT 3-STATE BUFFER",
-    "8BIT 3-STATE BUFFER",
+    "BUS BUFFER",
     "REGISTER-8",
     "ADDER-8",
     "J-K FLIP FLOP",
@@ -57,7 +57,7 @@
       "IsCollection":true
     },
     {
-      "Name":"8BIT 3-STATE BUFFER",
+      "Name":"BUS BUFFER",
       "IsCollection":false
     },
     {
@@ -76,7 +76,7 @@
       "Name":"FUNDEMENTAL"
     },
     {
-      "Chips":["CLOCK","PULSE","KEY","3-STATE BUFFER","4BIT 3-STATE BUFFER","8BIT 3-STATE BUFFER"],
+      "Chips":["CLOCK","PULSE","KEY","3-STATE BUFFER","4BIT 3-STATE BUFFER","BUS BUFFER"],
       "IsToggledOpen":true,
       "Name":"BASIC"
     },

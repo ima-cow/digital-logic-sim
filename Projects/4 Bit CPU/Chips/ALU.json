@@ -15,7 +15,7 @@
   },
   "InputPins":[
     {
-      "Name":"IN B",
+      "Name":"IN A",
       "ID":1007366696,
       "Position":{
         "x":-2.625,
@@ -26,7 +26,7 @@
       "ValueDisplayMode":1
     },
     {
-      "Name":"IN A",
+      "Name":"IN B",
       "ID":1387435602,
       "Position":{
         "x":-2.625,
