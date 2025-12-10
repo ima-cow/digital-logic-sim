@@ -149,17 +149,6 @@
       },
       "OutputPinColourInfo":[{"PinColour":0,"PinID":1613826292}],
       "InternalData":null
-    },
-    {
-      "Name":"PULSE",
-      "ID":287167565,
-      "Label":"",
-      "Position":{
-        "x":-0.365,
-        "y":-6.125
-      },
-      "OutputPinColourInfo":[{"PinColour":0,"PinID":1}],
-      "InternalData":[1,0,0]
     }
   ],
   "Wires":[
@@ -361,8 +350,22 @@
     },
     {
       "SourcePinAddress":{
-        "PinID":1,
-        "PinOwnerID":287167565
+        "PinID":0,
+        "PinOwnerID":349405989
+      },
+      "TargetPinAddress":{
+        "PinID":87009688,
+        "PinOwnerID":1826395252
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    },
+    {
+      "SourcePinAddress":{
+        "PinID":0,
+        "PinOwnerID":349405989
       },
       "TargetPinAddress":{
         "PinID":1918356613,
@@ -379,36 +382,8 @@
         "PinOwnerID":349405989
       },
       "TargetPinAddress":{
-        "PinID":0,
-        "PinOwnerID":287167565
-      },
-      "ConnectionType":0,
-      "ConnectedWireIndex":-1,
-      "ConnectedWireSegmentIndex":-1,
-      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
-    },
-    {
-      "SourcePinAddress":{
-        "PinID":1,
-        "PinOwnerID":287167565
-      },
-      "TargetPinAddress":{
         "PinID":1918356613,
         "PinOwnerID":602969665
-      },
-      "ConnectionType":0,
-      "ConnectedWireIndex":-1,
-      "ConnectedWireSegmentIndex":-1,
-      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
-    },
-    {
-      "SourcePinAddress":{
-        "PinID":1,
-        "PinOwnerID":287167565
-      },
-      "TargetPinAddress":{
-        "PinID":87009688,
-        "PinOwnerID":1826395252
       },
       "ConnectionType":0,
       "ConnectedWireIndex":-1,
